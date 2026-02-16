@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Pagination-DataJpa&apos;" deleteContents="true" description="Delete resource &apos;Pagination-DataJpa&apos;" element1="/Pagination-DataJpa" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1768790735442"/>&#x0A;<refactoring comment="Delete 3 resources" deleteContents="true" description="Delete 3 resources" element1="/ApiGatewayT" element2="/ApiTestApp1" element3="/EurekaT" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1769060474283"/>
+</session>
